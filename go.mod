@@ -1,4 +1,4 @@
-module ejercicios
+module exercises
 
 go 1.19
 

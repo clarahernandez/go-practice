@@ -1,9 +1,9 @@
 package main
 
 import (
-	"ejercicios/exercise1"
-	"ejercicios/exercise2"
-	"ejercicios/exercise3"
+	"exercises/exercise1"
+	"exercises/exercise2"
+	"exercises/exercise3"
 	"fmt"
 )
 
