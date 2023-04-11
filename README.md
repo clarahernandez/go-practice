@@ -15,7 +15,3 @@ go test -v
 
 ### Exercise 1:
 Given a string, write a function that determines how many bananas are in a string.
-
-### Exercise 2:
-
-### Exercise 3:
